@@ -1,0 +1,16 @@
+Caveman_Collision = 0 0 200 200
+Caveman_Duck Collision = 201 0 200 200
+Caveman_Duck = 0 201 200 200
+Caveman_Knocked Down = 201 201 200 200
+Caveman_Run1 = 402 0 200 200
+Caveman_Run2 = 402 201 200 200
+Caveman_Run3 = 603 0 200 200
+Caveman_Run4 = 603 201 200 200
+Caveman_Run5 = 0 402 200 200
+Caveman_Run6 = 0 603 200 200
+Caveman_Running Jump1 = 201 402 200 200
+Caveman_Running Jump2 = 402 402 200 200
+Caveman_Standing Jump1 = 201 603 200 200
+Caveman_Standing Jump2 = 402 603 200 200
+Caveman_Standing Jump3 = 603 402 200 200
+Caveman_Standing = 603 603 200 200

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>Pterodactyl3_Dive1</Key><Value>0 0 448 169</Value></Item>
+<Item><Key>Pterodactyl3_Fly6</Key><Value>0 170 359 269</Value></Item>
+<Item><Key>Pterodactyl3_Fly5</Key><Value>449 0 344 245</Value></Item>
+<Item><Key>Pterodactyl3_Fly4</Key><Value>360 246 333 225</Value></Item>
+<Item><Key>Pterodactyl3_Fly2</Key><Value>0 440 325 268</Value></Item>
+<Item><Key>Pterodactyl3_Fly3</Key><Value>0 709 274 285</Value></Item>
+<Item><Key>Pterodactyl3_Dead1</Key><Value>326 472 272 241</Value></Item>
+<Item><Key>Pterodactyl3_Fly1</Key><Value>694 246 270 193</Value></Item>
+<Item><Key>Pterodactyl3_Fly7</Key><Value>275 714 268 301</Value></Item>
+</Asset>
+</XnaContent>
+
+

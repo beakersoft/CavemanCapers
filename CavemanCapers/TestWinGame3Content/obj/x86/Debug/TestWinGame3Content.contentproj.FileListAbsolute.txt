@@ -1,0 +1,2 @@
+C:\Dropbox\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3Content\obj\x86\Debug\ResolveAssemblyReference.cache

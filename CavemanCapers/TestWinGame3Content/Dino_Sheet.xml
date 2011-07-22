@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>Allosaur3_1</Key><Value>0 0 978 675</Value></Item>
+<Item><Key>Allosaur3_10</Key><Value>979 0 978 675</Value></Item>
+<Item><Key>Allosaur3_11</Key><Value>0 676 978 675</Value></Item>
+<Item><Key>Allosaur3_12</Key><Value>0 1352 978 675</Value></Item>
+<Item><Key>Allosaur3_13</Key><Value>979 676 978 675</Value></Item>
+<Item><Key>Allosaur3_14</Key><Value>979 1352 978 675</Value></Item>
+<Item><Key>Allosaur3_15</Key><Value>1958 0 978 675</Value></Item>
+<Item><Key>Allosaur3_16</Key><Value>1958 676 978 675</Value></Item>
+<Item><Key>Allosaur3_2</Key><Value>2937 0 978 675</Value></Item>
+<Item><Key>Allosaur3_3</Key><Value>1958 1352 978 675</Value></Item>
+<Item><Key>Allosaur3_4</Key><Value>2937 676 978 675</Value></Item>
+<Item><Key>Allosaur3_5</Key><Value>2937 1352 978 675</Value></Item>
+<Item><Key>Allosaur3_6</Key><Value>0 2028 978 675</Value></Item>
+<Item><Key>Allosaur3_7</Key><Value>0 2704 978 675</Value></Item>
+<Item><Key>Allosaur3_8</Key><Value>979 2028 978 675</Value></Item>
+<Item><Key>Allosaur3_9</Key><Value>0 3380 978 675</Value></Item>
+</Asset>
+</XnaContent>

@@ -1,0 +1,9 @@
+Pterodactyl3_Dead1 = 0 0 454 454
+Pterodactyl3_Dive1 = 455 0 454 454
+Pterodactyl3_Fly1 = 0 455 454 454
+Pterodactyl3_Fly2 = 455 455 454 454
+Pterodactyl3_Fly3 = 910 0 454 454
+Pterodactyl3_Fly4 = 910 455 454 454
+Pterodactyl3_Fly5 = 0 910 454 454
+Pterodactyl3_Fly6 = 455 910 454 454
+Pterodactyl3_Fly7 = 910 910 454 454

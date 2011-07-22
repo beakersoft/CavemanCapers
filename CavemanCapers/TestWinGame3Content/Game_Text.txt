@@ -1,0 +1,8 @@
+Game Text_Exit copy = 0 0 377 71
+Game Text_Exit = 0 72 377 71
+Game Text_Load Game copy = 0 144 377 71
+Game Text_Load Game = 0 216 377 71
+Game Text_Options copy = 0 288 377 71
+Game Text_Options = 0 360 377 71
+Game Text_Start Game copy = 0 432 377 71
+Game Text_Start Game = 0 504 377 71

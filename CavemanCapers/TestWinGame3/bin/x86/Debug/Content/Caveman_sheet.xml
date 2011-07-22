@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+<Asset Type="System.Collections.Generic.Dictionary[System.String, Microsoft.Xna.Framework.Rectangle]">
+<Item><Key>Caveman_Collision</Key><Value>0 0 200 200</Value></Item>
+<Item><Key>Caveman_Duck Collision</Key><Value>201 0 200 200</Value></Item>
+<Item><Key>Caveman_Duck</Key><Value>0 201 200 200</Value></Item>
+<Item><Key>Caveman_Knocked Down</Key><Value>201 201 200 200</Value></Item>
+<Item><Key>Caveman_Left Down</Key><Value>402 0 200 200</Value></Item>
+
+<Item><Key>Caveman_Run1</Key><Value>402 0 200 200</Value></Item>
+<Item><Key>Caveman_Run2</Key><Value>402 201 200 200</Value></Item>
+<Item><Key>Caveman_Run3</Key><Value>603 0 200 200</Value></Item>
+  <Item>
+    <Key>Caveman_Run4</Key>
+    <Value>603 201 200 200</Value>
+  </Item>
+  <Item>
+    <Key>Caveman_Run5</Key>
+    <Value>0 402 200 200</Value>
+  </Item>
+  <Item>
+    <Key>Caveman_Run6</Key>
+    <Value>0 603 200 200</Value>
+  </Item>
+  
+  
+<Item><Key>Caveman_Running Jump1</Key><Value>201 402 200 200</Value></Item>
+<Item><Key>Caveman_Running Jump2</Key><Value>402 402 200 200</Value></Item>
+<Item><Key>Caveman_Standing Jump1</Key><Value>201 603 200 200</Value></Item>
+<Item><Key>Caveman_Standing Jump2</Key><Value>402 603 200 200</Value></Item>
+<Item><Key>Caveman_Standing Jump3</Key><Value>603 402 200 200</Value></Item>
+<Item><Key>Caveman_Standing</Key><Value>603 603 200 200</Value></Item>
+</Asset>
+</XnaContent>

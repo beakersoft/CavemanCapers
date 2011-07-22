@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background01.png</Source>
+      <Name>Background01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Background01.xnb</Output>
+      <Time>2011-04-10T16:31:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>arthur_run_75mm_box.png</Source>
+      <Name>arthur_run_75mm_box</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\arthur_run_75mm_box.xnb</Output>
+      <Time>2011-04-11T20:31:28.9478176+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background02.png</Source>
+      <Name>Background02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Background02.xnb</Output>
+      <Time>2011-04-11T22:23:29.549214+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Background03.png</Source>
+      <Name>Background03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Background03.xnb</Output>
+      <Time>2011-04-11T22:23:35.0425282+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Boulder_sheet2.png</Source>
+      <Name>Boulder2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Boulder2.xnb</Output>
+      <Time>2011-04-19T21:50:42.4071155+01:00</Time>
+    </Item>
+    <Item>
+      <Source>caveman_sheet.png</Source>
+      <Name>caveman_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\caveman_sheet.xnb</Output>
+      <Time>2011-04-21T16:30:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Title Screen_800x600.png</Source>
+      <Name>TitleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\TitleScreen.xnb</Output>
+      <Time>2011-05-06T17:18:10+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Game_Text.png</Source>
+      <Name>GameText</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\GameText.xnb</Output>
+      <Time>2011-05-11T12:20:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pterodactyl_Sheet2.png</Source>
+      <Name>Pterodactyl_Sheet2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Pterodactyl_Sheet2.xnb</Output>
+      <Time>2011-06-02T20:22:03.2515682+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Times.spritefont</Source>
+      <Name>Courier New</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Courier New.xnb</Output>
+      <Time>2011-04-12T23:06:05.3399947+01:00</Time>
+    </Item>
+    <Item>
+      <Source>dino_test.png</Source>
+      <Name>dino_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\dino_test.xnb</Output>
+      <Time>2011-06-08T20:35:35.4657931+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Boulder_sheet_new.xml</Source>
+      <Name>Boulder_sheet_new</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Boulder_sheet_new.xnb</Output>
+      <Time>2011-06-09T20:03:52.7587371+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Pterodactyl_Sheet2.xml</Source>
+      <Name>Pterodactyl_Sheet_XML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Pterodactyl_Sheet_XML.xnb</Output>
+      <Time>2011-06-09T20:01:19.864992+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Caveman_sheet.xml</Source>
+      <Name>Caveman_sheet_XML</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Caveman_sheet_XML.xnb</Output>
+      <Time>2011-06-09T20:10:38.7619591+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Dino_Sheet.xml</Source>
+      <Name>Dino_Sheet</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\Dino_Sheet.xnb</Output>
+      <Time>2011-06-09T20:11:15.4720588+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\luke\Documents\My Dropbox\Dev\Games\TestWinGame3\TestWinGame3\TestWinGame3\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-03-27T14:53:23.0468066+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

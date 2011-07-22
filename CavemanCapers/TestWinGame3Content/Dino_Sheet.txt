@@ -1,0 +1,16 @@
+Allosaur3_1 = 0 0 978 675
+Allosaur3_10 = 979 0 978 675
+Allosaur3_11 = 0 676 978 675
+Allosaur3_12 = 0 1352 978 675
+Allosaur3_13 = 979 676 978 675
+Allosaur3_14 = 979 1352 978 675
+Allosaur3_15 = 1958 0 978 675
+Allosaur3_16 = 1958 676 978 675
+Allosaur3_2 = 2937 0 978 675
+Allosaur3_3 = 1958 1352 978 675
+Allosaur3_4 = 2937 676 978 675
+Allosaur3_5 = 2937 1352 978 675
+Allosaur3_6 = 0 2028 978 675
+Allosaur3_7 = 0 2704 978 675
+Allosaur3_8 = 979 2028 978 675
+Allosaur3_9 = 0 3380 978 675

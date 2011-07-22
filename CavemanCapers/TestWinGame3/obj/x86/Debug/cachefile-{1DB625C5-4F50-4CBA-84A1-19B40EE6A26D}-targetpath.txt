@@ -1,0 +1,21 @@
+Content\Background01.xnb
+Content\arthur_run_75mm_box.xnb
+Content\Background02.xnb
+Content\Background03.xnb
+Content\Boulder2.xnb
+Content\caveman_sheet.xnb
+Content\TitleScreen.xnb
+Content\GameText.xnb
+Content\Pterodactyl_Sheet2.xnb
+Content\Courier New.xnb
+Content\dino_test.xnb
+Content\Boulder_sheet_new.xnb
+Content\Pterodactyl_Sheet_XML.xnb
+Content\Caveman_sheet_XML.xnb
+Content\Dino_Sheet.xnb
+Content\Game_Text.png
+Content\Pterodactyl_Sheet2.png
+Content\Boulder_sheet_new.xml
+Content\Pterodactyl_Sheet2.xml
+Content\Caveman_sheet.xml
+Content\Game_Text.txt

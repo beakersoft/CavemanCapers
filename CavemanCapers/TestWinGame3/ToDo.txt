@@ -1,0 +1,5 @@
+Gamestates
+XML files for sprites instead of txt file
+music
+Add the dino in
+Add the perdatcle in
